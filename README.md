@@ -1,2 +1,2 @@
-# ClockApp
+# ClockApplication
  Homework 1
